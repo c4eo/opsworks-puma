@@ -1,1 +1,1 @@
-default.puma[:version] = "2.8.2"
+default.puma[:version] = "2.13.4"
